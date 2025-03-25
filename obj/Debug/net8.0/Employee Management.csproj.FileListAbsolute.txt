@@ -1,0 +1,107 @@
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/appsettings.Development.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/appsettings.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Employee Management.staticwebassets.runtime.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Employee Management
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Employee Management.deps.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Employee Management.runtimeconfig.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Employee Management.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Employee Management.pdb
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Humanizer.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/MySqlConnector.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/System.CodeDom.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.csproj.AssemblyReference.cache
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.AssemblyInfoInputs.cache
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.AssemblyInfo.cs
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.csproj.CoreCompileInputs.cache
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.MvcApplicationPartsAssemblyInfo.cs
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.MvcApplicationPartsAssemblyInfo.cache
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.RazorAssemblyInfo.cache
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.RazorAssemblyInfo.cs
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/staticwebassets.build.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/staticwebassets.development.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/staticwebassets/msbuild.Employee Management.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/staticwebassets/msbuild.build.Employee Management.props
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Employee Management.props
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Employee Management.props
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/scopedcss/bundle/Employee Management.styles.css
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/scopedcss/projectbundle/Employee Management.bundle.scp.css
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee.00B75999.Up2Date
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/refint/Employee Management.dll
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.pdb
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/Employee Management.genruntimeconfig.cache
+/Users/luigilauron/Projects/Employee Management/Employee Management/obj/Debug/net8.0/ref/Employee Management.dll
